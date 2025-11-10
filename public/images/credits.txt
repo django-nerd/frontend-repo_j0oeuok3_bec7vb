@@ -1,0 +1,5 @@
+Image placeholders used in this project:
+- /images/sample-1.jpg .. /images/sample-9.jpg
+- /images/project-1.jpg .. /images/project-3.jpg
+
+You can replace these with your own photos by adding files with the same names to the public/images folder.
